@@ -1,0 +1,19 @@
+We can create classes now, great!
+
+But what happens when we want to update some of the properties of a class?
+
+By using getters and setters!
+
+Let's say we have a Person class.
+
+This 'Person' has a name and and age.
+
+What happens when we want to 'get' our persons age?
+
+What happens if that person can only be over 18?
+
+Getters and setters provide us that extra protection.
+
+In our 'setter' method we could write an if statement that won't allow under 18s.
+
+Getters and setters are a security measure or a hook to do stuff when we want to update properties of a class object.

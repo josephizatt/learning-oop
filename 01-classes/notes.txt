@@ -1,0 +1,17 @@
+The 'class' is the starting point for object oriented programming.
+
+Let's consider we are building a Task app to keep track of tasks.
+What should we name our class?
+
+Well, object oriented programming tells us to 'hunt down the nouns', i.e.
+find the most appropriate noun to name your class.
+(https://vegibit.com/hunt-down-the-nouns/)
+
+The noun here is 'Task', which is why we named the class 'Task'.
+
+A class is a blueprint of what a 'Task' might look like.
+
+e.g. a 'Task' probably has a description.
+
+Rest of what you need to know is in Task.php in this folder.
+
